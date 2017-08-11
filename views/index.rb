@@ -6,15 +6,15 @@
 <header>
 	
 	<meta charset="utf-8">
-	<title>Thrill Seekers Guide To Roller Coasters</title>
-	<meta name="description" content="Thrill Seekers Guide To Roller Coasters">
+	<title>Burger land</title>
+	<meta name="description" content="Burger Land">
 	<meta name="author" content="Minedminds">
-	<h1><i><b>Thrill Seekers Guide To Roller Coasters</b></i></h1>
+	<h1><i><b>Burger Land</b></i></h1>
 	<ul>
   <li><a href="index">Home</a></li>
-  <li><a href="top_10_us">Top Iconic in The US</a></li>
-  <li><a href="top_world">Top In The World</a></li>
-  <li><a href="top_parks">Top Parks</a></li>
+  <li><a href="top_10_us">Burgers in the usa</a></li>
+  <li><a href="top_world">Commie Burgers</a></li>
+  <li><a href="top_parks">Best Resturants</a></li>
   
 </ul>
 </header>
@@ -22,7 +22,7 @@
 
 <body>
 <!-- Went with bold on this line -->
-<i>You will be needing change while you visit, enter an amount and we will tell you exactly how many coins you will need.</i>
+<i>You will be needing change to have a good burger my freind.</i>
 <!-- Went with italics on this line -->
 <form method = 'post' action = '/index'>
 
@@ -32,18 +32,18 @@
 </form> 
 
 
-<p><b><i>Roller coasters have been the focal point of theme parks for decades, often singlehandedly making or breaking a venue’s reputation for death-defying fun.</i></b></p>
+<p><b><i>Burgers are the heart and soul of any bbq joint or resturant in america.</i></b></p>
 
 <p>
-But with close to 4,000 documented roller coasters in the world, according to the Roller Coaster Database Census Report, how do you know which ones to try out before you die, and which ones simply aren't worth the time?</p>
+But with many food items, they eventually make there way to a burger, like bacon and other such combinations.</p>
 
-<p>Thankfully, we have done the hard part for you, piecing together a list of a roller coaster bucket list of sorts. You'll find the tall, the smooth, the rickety, the fast, the dangerous, and the best designed on this site.</p>
+<p>and for a plethera of americans, these are some of the most delicious sandwitches ever concived.</p>
 
-All aboard, if you dare!
+So go to a random burger joint and dig in!
 
 </body>
 <footer>
-  <p>Posted by: Steph &copy Minedminds</p>
+  <p>Posted by: &copy Minedminds</p>
 
   <p>Contact information: <a href="mailto:info@minedminds.org">
   info@minedminds.org</a>.</p>
